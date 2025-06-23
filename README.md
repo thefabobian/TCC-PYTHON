@@ -1,6 +1,6 @@
 # 🧮 Calculadora por Voz en Python (Español)
 
-Este es un proyecto de calculadora controlada por voz, desarrollada en Python. Permite realizar operaciones matemáticas simples (suma, resta, multiplicación y división) usando comandos hablados en español, incluso con valores grandes como "un millón", "quinientos mil", etc.
+Este es un proyecto de calculadora controlada por voz, desarrollada en Python. Permite realizar operaciones matemáticas simples (suma, resta, multiplicación y división) usando comandos hablados en español.
 
 ## 🔧 Requisitos del sistema
 
